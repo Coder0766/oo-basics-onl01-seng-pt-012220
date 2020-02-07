@@ -15,7 +15,7 @@ class Shoe
   def self.cobble= new
   end
 
-  def self.condition= new
+  def show.condition= new
   end
 
 end
