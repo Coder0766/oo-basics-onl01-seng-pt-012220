@@ -15,5 +15,5 @@ class Shoe
 end
 
 
-shoe.condition = "old"
+shoe.condition = "new"
 shoe.cobble
