@@ -16,4 +16,4 @@ end
 
 
 shoe.condition= "new"
-shoe.cobble
+shoe.cobble= "new"
