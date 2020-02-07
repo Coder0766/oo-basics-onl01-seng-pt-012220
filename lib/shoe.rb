@@ -14,4 +14,4 @@ class Shoe
 
 end
 
-shoe= Shoe.new
+shoe= Shoe.new(brand)
