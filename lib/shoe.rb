@@ -15,3 +15,4 @@ class Shoe
 end
 
 shoe= Shoe.new(brand)
+shoe.condition
