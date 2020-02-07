@@ -13,6 +13,3 @@ class Shoe
   end
 
 end
-
-shoe
-# shoe.conditon= "new"
