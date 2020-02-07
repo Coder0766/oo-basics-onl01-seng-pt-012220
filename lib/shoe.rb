@@ -12,10 +12,10 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-  def self.cobble= ("new")
+  def self.cobble= new
   end
 
-  def self.condition= ("new")
+  def self.condition= new
   end
 
 end
