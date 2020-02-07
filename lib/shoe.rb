@@ -14,5 +14,5 @@ class Shoe
 
 end
 
-shoe= shoe.new
-shoe.conditon= "new"
+shoe
+# shoe.conditon= "new"
