@@ -13,6 +13,7 @@ class Shoe
   end
 
   def self.cobble= new
+    shoe.condition= "new"
   end
 
 end
