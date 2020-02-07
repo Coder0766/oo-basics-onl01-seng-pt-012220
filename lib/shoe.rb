@@ -14,5 +14,5 @@ class Shoe
 
 end
 
-shoe= Shoe.new(brand)
-shoe.cobble= "new"
+# shoe= Shoe.new(brand)
+# shoe.cobble= "new"
